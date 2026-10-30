@@ -1,0 +1,21 @@
+{
+  "name": "sparkle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true,
+  "dependencies": {
+    "ant-design-vue": "^4.2.6",
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
